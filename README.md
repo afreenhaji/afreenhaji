@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afreen</h1>
 <h3 align="center">"I am a passionate mobile app developer and Java developer."</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 - 🔭 I’m currently working on **Smart sanitizing toilet**
 
