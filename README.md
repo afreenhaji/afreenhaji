@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afreen</h1>
 <h3 align="center">"I am a passionate mobile app developer and Java developer."</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
-- 🔭 I’m currently working on **Smart sanitizing toilet**
+- 🔭 I have done project on [Smart sanitizing toilet](https://docs.google.com/presentation/d/1-h4obmtD9VZiZARRX-zsfnUhVH1E53YY/edit?usp=drive_link&ouid=112640758288330256193&rtpof=true&sd=true)
 
 - 🌱 I’m currently learning **Django**
 
